@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @daltonmcclain
+- 👀 I’m interested in automation, infrastructure as code, cloud
+- 🌱 I’m currently learning Terraform, Ansible, Packer, Docker, Kubernetes/Nomad
